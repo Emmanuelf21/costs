@@ -1,0 +1,51 @@
+{
+  "projects": [
+    {
+      "id": "d325",
+      "name": "teste",
+      "budget": "3000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "13f5",
+      "name": "projeto 2",
+      "budget": "5000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 400,
+      "services": [
+        {
+          "name": "teste",
+          "cost": "400",
+          "description": "dev",
+          "id": "99b16cad-ae5a-4872-b51c-9f3d8849bbde"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
